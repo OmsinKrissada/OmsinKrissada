@@ -2,9 +2,9 @@
 
 <br>
 
-![OmBean's stats](https://github-readme-stats.vercel.app/api?username=OmsinKrissada&show_icons=true&theme=vue-dark)
+![OmBean's stats](https://github-readme-stats.vercel.app/api?username=OmsinKrissada&show_icons=true&theme=prussian)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmsinKrissada&layout=compact&theme=vue-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmsinKrissada&layout=compact&theme=prussian)
 <!--
 **OmsinKrissada/OmsinKrissada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
