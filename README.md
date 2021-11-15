@@ -1,5 +1,5 @@
 ## 👋 Hello, it's me Omsin!
-### I am a 16 years old student currently living in Thailand. I love coding and engineering-related tasks.
+### I am a 17 years old student currently living in Thailand. I love coding and engineering-related tasks.
 ### My projects on GitHub are mostly for my friends or personal use, do not expect them to be bug-free haha
 
 <br>
