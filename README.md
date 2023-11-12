@@ -6,7 +6,7 @@ Personal GitLab (for dotfile and private stuff): https://gitlab.com/OmsinKrissad
 
 Quick access to some of the websites I made:
 - [ASCLEPIUS team in Microsoft AI for Accessibility Hackathon APAC 2022](https://asclepius.krissada.com/)
-- [Wynncraft Guild Dashboard (for Calvish)](https://calvish-guild.vercel.app/)
+- [Wynncraft Guild Dashboard (for Calvish)](https://calvish-guild.vercel.app/weekly/)
 - [Self-learning resources](https://resources.krissada.com/)
 - [Ruby team demo website for Thinc. 10-Days Project 2023](https://chata.krissada.com/)
 
