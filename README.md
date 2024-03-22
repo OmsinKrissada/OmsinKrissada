@@ -19,7 +19,7 @@ My Windows 11 Setup:
 My Arch setup:
 - Running the Zen kernel with NVIDIA DKMS 'cause I use NVIDIA
 - GNOME & Hyprland (with wofi and waybar) for DM/WM, accessed from GDM
-- zsh for shell, and GNOME Terminal for terminal
+- zsh for shell (with p10k), and GNOME Terminal for terminal
 - Currently using ext4 but may try btrfs one day...
 
 Home server:
