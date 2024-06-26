@@ -3,6 +3,7 @@
 My projects on GitHub are mostly for my friends or personal use, do not expect them to be bug-free haha
 
 Personal GitLab (for dotfile and more private stuff): https://gitlab.com/OmsinKrissada
+Also migrating some frequently accessed projects to https://git.krissada.com
 
 Quick access to some of the websites I made:
 - [ASCLEPIUS team in Microsoft AI for Accessibility Hackathon APAC 2022](https://asclepius.krissada.com/)
