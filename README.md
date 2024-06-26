@@ -2,7 +2,7 @@
 ### I am a 19 years old student currently living in Thailand. I love coding and engineering-related tasks.
 My projects on GitHub are mostly for my friends or personal use, do not expect them to be bug-free haha
 
-Personal GitLab (for dotfile and more private stuff): https://gitlab.com/OmsinKrissada
+Personal GitLab (for dotfile and more private stuff): https://gitlab.com/OmsinKrissada \
 Also migrating some frequently accessed projects to https://git.krissada.com
 
 Quick access to some of the websites I made:
