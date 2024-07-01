@@ -15,6 +15,8 @@
 - [Self-learning resources](https://resources.krissada.com/)
 - [Ruby team demo website for Thinc. 10-Days Project 2023](https://chata.krissada.com/)
 
+## Other stuff
+
 <details>
 <summary>
 🖥️ My Workstation Setup
@@ -35,6 +37,10 @@ Home server:
 - Ubuntu 22.04.4
 </details>
 
+<details>
+  <summary>
+    Languages, OS'es, and tools I'm familiar with
+  </summary>
 
 ## Here's a list of tech stuff I use since everyone does it for some reason 🤷
 
@@ -52,6 +58,8 @@ Home server:
 
 ### Some of the popular tools/services I use
 [![My Skills](https://skillicons.dev/icons?i=git,nodejs,docker,vim,vscode,svelte,nuxt,next)](https://skillicons.dev)
+
+</details>
 
 ## GitHub Statistics
 
