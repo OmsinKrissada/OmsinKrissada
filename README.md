@@ -1,12 +1,12 @@
 <h1 align="center">👋 Hello, I'm Omsin!</h1>
 
 ## About Me
-- 🍼 19 years old
+- 🍼 20 years old
 - 🏫 Currently persuing B.Eng. (Computer Engineering) at Chulalongkorn University
 - Will contribute to / advocate for FOSS since it has given me so much
 
 ## Other repo sources
-- https://git.krissada.com (self-hosted)
+- https://git.krissada.com (self-hosted) <ins>**NEWER PROJECTS ARE CREATED HERE INSTEAD OF GITHUB**</ins>
 - https://gitlab.com/OmsinKrissada
 
 ## Quick access to frequently/recently used stuff I made:
