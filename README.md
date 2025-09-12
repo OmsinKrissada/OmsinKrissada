@@ -18,26 +18,6 @@
 ## Other stuff
 
 <details>
-<summary>
-🖥️ My Workstation Setup
-</summary>
-
-## Dual-boot (Arch + Windows 11) + a home server to run my side hussles
-
-My Windows 11 Setup:
-- It's Windows 😑
-  
-My Arch setup:
-- Running the Zen kernel with NVIDIA DKMS
-- zsh (with p10k)
-- GNOME & Hyprland (with wofi and waybar) for DM/WM
-- Currently using ext4, may try btrfs one day...
-
-Home server:
-- Ubuntu 22.04.4
-</details>
-
-<details>
   <summary>
     Languages, OS'es, and tools I'm familiar with
   </summary>
@@ -61,8 +41,31 @@ Home server:
 
 </details>
 
+![typeracer](https://data.typeracer.com/misc/badge?user=omsinkrissada)
+
 ## GitHub Statistics
 
 ![Omsin's stats](https://github-readme-stats.vercel.app/api?username=OmsinKrissada&show_icons=true&theme=react&hide_border=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmsinKrissada&layout=compact&theme=react&hide_border=true)
+
+
+<details>
+<summary>
+🖥️ My Workstation Setup
+</summary>
+
+## Dual-boot (Arch + Windows 11) + a home server to run my side hussles
+
+My Windows 11 Setup:
+- It's Windows 😑
+  
+My Arch setup:
+- Running the Zen kernel with NVIDIA DKMS
+- zsh (with p10k)
+- GNOME & Hyprland (with wofi and waybar) for DM/WM
+- Currently using ext4, may try btrfs one day...
+
+Home server:
+- Ubuntu 22.04.4
+</details>
